@@ -332,13 +332,13 @@ while gameloop:
         if ticks == 10 and quant_ticks >= 67:
             quant_ticks = 0
             watermelon_pos = random_on_grid()
-        if ticks == 12 and quant_ticks >= 73:
+        if ticks == 12 and quant_ticks >= 70:
             quant_ticks = 0
             watermelon_pos = random_on_grid()
-        if ticks == 16 and quant_ticks >= 80:
+        if ticks == 16 and quant_ticks >= 76:
             quant_ticks = 0
             watermelon_pos = random_on_grid()
-        if ticks == 22 and quant_ticks >= 100:
+        if ticks == 22 and quant_ticks >= 85:
             quant_ticks = 0
             watermelon_pos = random_on_grid()
         #COMER MELANCIA
